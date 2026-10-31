@@ -1,0 +1,1 @@
+use db_spk_wp_laptop.sql for database dont use migrate!! and seed!!
